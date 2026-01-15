@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 PRVA PROMENAAAA
+=======
+first change
+second change
+>>>>>>> f39db6f742255a4f7e0d7c9ac769bd856f7a32a3
